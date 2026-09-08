@@ -1,8 +1,5 @@
 ![NasibakarisiAyam hero](https://coolreadme.xyz/api/hero-banner?user=NasibakarisiAyam&title=Athallah+Nazif+Arlis+pratama&subtitle=+Cyber+Security+Enthusiast+%7C+Computer+Science+Student&theme=dark)
 
-### Currently
-
-![now listening](https://coolreadme.xyz/api/now-listening?song=Stairway%20To%20Haven&artist=Led%20Zeppelin&album=LedZeppelinIV&style=spotify)
 
 ### Stack
 
