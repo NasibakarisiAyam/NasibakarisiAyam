@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋, I'm Athallah Nazif Arlis Pratama</h1>
-<h3 align="center">🛡️ Cybersecurity Enthusiast | Penetration Testing & Network Security | Threat Hunting | Web Developer | Computer Science Student</h3>
+![NasibakarisiAyam hero](https://coolreadme.xyz/api/hero-banner?user=NasibakarisiAyam&title=Athallah+Nazif+Arlis+pratama&subtitle=+Cyber+Security+Enthusiast+%7C+Computer+Science+Student&theme=dark)
 
-- 🌱 I’m currently learning **Cloud Security, Linux Security, and Cryptography**
+### Stats
 
-- 📫 How to reach me **athallahnazif07@gmail.com**
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/stats-card?user=NasibakarisiAyam&theme=dark"><img alt="NasibakarisiAyam GitHub stats" src="https://coolreadme.xyz/api/stats-card?user=NasibakarisiAyam&theme=light"></picture>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://id.linkedin.com/in/athallah-nazif-arlis-pratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://id.linkedin.com/in/athallah-nazif-arlis-pratama" height="30" width="40" /></a>
-</p>
+### Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,linux,aws,azure,bash,docker,js,react,mongodb,gcp,kali,python" />
-  </a>
-</p>
+![now listening](https://coolreadme.xyz/api/now-listening?song=Add%20your%20Spotify&artist=NasibakarisiAyam&album=placeholder&style=spotify)
+
+### Stack
+
+![Skill icons](https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Cgit%2Ckali%2Clinux%2Cgcp%2Caws%2Cpython%2Creact%2Cangular%2Cnodejs%2Cnext%2Ccpp%2Cjava%2Cazure%2Cmongodb%2Cmysql%2Cdocker&perline=10&theme=dark)
 
 
+<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/NasibakarisiAyam) — one-click GitHub README cards.</sub>
