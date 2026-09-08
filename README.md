@@ -2,7 +2,7 @@
 
 ### Currently
 
-![now listening](https://coolreadme.xyz/api/now-listening?song=Stairway%20To%20Haven&artist=Led%20Zeppelin&album=placeholder&style=spotify)
+![now listening](https://coolreadme.xyz/api/now-listening?song=Stairway%20To%20Haven&artist=Led%20Zeppelin&album=LedZeppelinIV&style=spotify)
 
 ### Stack
 
