@@ -1,15 +1,5 @@
 ![NasibakarisiAyam hero](https://coolreadme.xyz/api/hero-banner?user=NasibakarisiAyam&title=Athallah+Nazif+Arlis+pratama&subtitle=+Cyber+Security+Enthusiast+%7C+Computer+Science+Student&theme=dark)
 
-### Play Game With Me!!
-- uses: Platane/snk@v3
-  with:
-    
-    github_user_name: ${{ NasibakarisiAyam }}
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 ### Stack
 
