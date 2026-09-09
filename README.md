@@ -10,4 +10,3 @@
 ![Profile stats card](https://kgnio-profile-card.vercel.app/api/card?user=NasibakarisiAyam&theme=midnight)
 
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/NasibakarisiAyam) — one-click GitHub README cards.</sub>
